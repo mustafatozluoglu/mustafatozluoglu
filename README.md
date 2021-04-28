@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @mustafatozluoglu
 - 👀 I’m interested in Software Development in Java
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Angular
 - 💞️ I’m looking to collaborate on Mobile Software Developer
 - 📫 How to reach me https://www.linkedin.com/in/mustafatozluoglu/
 - 📫 How to reach me mustafasaidtozluoglu@gmail.com
+- 📫 This is my website attempt www.mustafatozluoglu.wordpress.com
 
 <!---
 mustafatozluoglu/mustafatozluoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
