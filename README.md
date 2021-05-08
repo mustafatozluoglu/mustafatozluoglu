@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Mobile Software Developer
 - 📫 How to reach me https://www.linkedin.com/in/mustafatozluoglu/
 - 📫 How to reach me mustafasaidtozluoglu@gmail.com
+- 📫 How to reach me https://www.xing.com/profile/Mustafa_Tozluoglu/cv
 - 📫 This is my website attempt www.mustafatozluoglu.wordpress.com
 
 <!---
