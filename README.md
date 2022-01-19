@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mustafatozluoglu
 - 👀 I’m interested in Software Development in Java
-- 🌱 I’m currently learning Flutter and Angular
-- 💞️ I’m looking to collaborate on Mobile Software Developer
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me https://www.linkedin.com/in/mustafatozluoglu/
 - 📫 How to reach me mustafasaidtozluoglu@gmail.com
 - 📫 How to reach me https://www.xing.com/profile/Mustafa_Tozluoglu/cv
